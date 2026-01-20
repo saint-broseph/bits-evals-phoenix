@@ -127,7 +127,7 @@ export default function Home() {
               <div className="w-1.5 h-1.5 rounded-full bg-white animate-pulse group-hover:bg-emerald-500 transition-colors"></div>
               <span className="text-[10px] font-bold text-neutral-500 uppercase tracking-wider group-hover:text-white transition-colors">
                 <span className="group-hover:hidden">Live</span>
-                <span className="hidden group-hover:inline">Engineered by Tanishq</span>
+                <span className="hidden group-hover:inline">Tanishq Sahu</span>
               </span>
             </div>
           </div>
